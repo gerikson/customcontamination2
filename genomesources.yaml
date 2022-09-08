@@ -1,0 +1,22 @@
+fastafile_sources:
+  - univec.fna: https://ftp.ncbi.nlm.nih.gov/pub/UniVec/UniVec                                                                                                                                       
+  - phix.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001422.1?report=fasta                                                                                                                               
+  - lambdaphage.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1?report=fasta
+  - influenzab.fna: [
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002211.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002210.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002209.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002208.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002207.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002206.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002205.1?report=fasta,
+      https://www.ncbi.nlm.nih.gov/nuccore/NC_002204.1?report=fasta
+  ]
+  - rhinoa.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_038311.1?report=fasta
+  - rhinob.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001490.1?report=fasta
+  - mouse45s.fna: https://www.ncbi.nlm.nih.gov/nuccore/NR_046233.2?report=fasta
+  - human45s.fna: https://www.ncbi.nlm.nih.gov/nuccore/NR_046235.3?report=fasta
+  - fly45s.fna: https://www.ncbi.nlm.nih.gov/nuccore/NR_133549.1?report=fasta
+  - humanmito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta
+  - mousemito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_005089.1?report=fasta
+  - flymito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_024511.2?report=fasta
