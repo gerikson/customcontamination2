@@ -1,5 +1,5 @@
 fastafile_sources:
-  - univec.fna: https://ftp.ncbi.nlm.nih.gov/pub/UniVec/UniVec                                                                                                                                       
+  - univec_core.fna: https://ftp.ncbi.nlm.nih.gov/pub/UniVec/UniVec_Core
   - phix.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001422.1?report=fasta                                                                                                                               
   - lambdaphage.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1?report=fasta
   - influenzab.fna: [
