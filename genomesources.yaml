@@ -21,3 +21,5 @@ fastafile_sources:
   - mousemito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_005089.1?report=fasta
   - flymito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_024511.2?report=fasta
   - drosophilac.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001834.1?report=fasta
+  - aedesaegyptimito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_035159.1?report=fasta
+  - aedesaegypti28s.fna: https://www.ncbi.nlm.nih.gov/nuccore/XM_021844684.1?report=fasta
