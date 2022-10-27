@@ -20,3 +20,4 @@ fastafile_sources:
   - humanmito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_012920.1?report=fasta
   - mousemito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_005089.1?report=fasta
   - flymito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_024511.2?report=fasta
+  - drosophilac.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_001834.1?report=fasta
