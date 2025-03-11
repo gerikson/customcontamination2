@@ -27,3 +27,6 @@ fastafile_sources:
   - zebrarRNA.fna: https://www.ncbi.nlm.nih.gov/nuccore/NR_145818.1?report=fasta
   - zebramito.fna: https://www.ncbi.nlm.nih.gov/nuccore/NC_002333.2?report=fasta
   - bloomfield_virus.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/?term=txid1654577[Organism:noexp]
+  - pseudomonas_fluorescens.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/?term=txid294
+  - pseudomonas-yamanorum.fna.gz: https://www.ncbi.nlm.nih.gov/nuccore/?term=txid515393
+  
